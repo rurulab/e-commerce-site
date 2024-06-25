@@ -1,0 +1,6 @@
+
+
+<div class="pro" onclick="window.location.href='sproduct.html'">
+bunlari her class icin yap tikladiginda detailsi acsin
+
+search bar yap arat
